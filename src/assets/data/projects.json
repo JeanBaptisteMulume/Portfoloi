@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Application de pentesting pour des entreprises",
+    "description": "Application python de pentesting pour des entreprises.",
+    "image": "/src/assets/images/cyber.png",
+    "link": "https://github.com/JeanBaptisteMulume/CyberWhatch.git"
+  },
+  {
+    "id": 2,
+    "name": "Plateforme de E-learning",
+    "description": "plateforme complet avec HTML, CSS, JS et PHP/MySQL. ainsi que le bootstrap",
+    "image": "/src/assets/images/Capture d'écran 2025-10-01 234014.png",
+    "link": "https://github.com/JeanBaptisteMulume/Skillboost.git"
+  },
+  {
+    "id": 3,
+    "name": "Portfolio personnel",
+    "description": "Mon portfolio développé avec Vue.js et Bootstrap sans le techno backend",
+    "image": "/src/assets/images/Capture d'écran 2025-10-01 234303.png",
+    "link": "https://github.com/JeanBaptisteMulume/Portfoloi.git"
+  },
+  {
+    "id": 4,
+    "name": "Application de suivi de livraisons (Bukavu)",
+    "description": "Cette application permet d'analyser les traces GPS (fichier NMEA) d'un livreur pour : détecter automatiquement les arrêts effectués, apparaître ces arrêts avec les clients connus, exporter les résultats dans des fichiers CSV , et désormais, sauvegardez la trajectoire complète du livreur",
+    "image": "/src/assets/images/Capture d'écran 2025-10-12 014424.png",
+    "link": "https://github.com/JeanBaptisteMulume/Delivery-Trafic.git"
+  },
+  {
+    "id": 5,
+    "name": "Application de gestion des enseignants",
+    "description": "Application desktop fait en Java qui permet de gèrer les enseignants d'une université.",
+    "image": "/src/assets/images/Capture d'écran 2025-10-02 001735.png",
+    "link": "https://github.com/JeanBaptisteMulume/Teachers_management.git"
+  },
+  {
+    "id": 6,
+    "name": "Site vitrine pour une PME",
+    "description": "Site vitrine développé pour une petite entreprise locale.",
+    "image": "/src/assets/images/Capture d'écran 2025-10-01 234014.png",
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "name": "Application météo",
+    "description": "Application web affichant les prévisions météorologiques.",
+    "image": "/src/assets/images/Capture d'écran 2025-10-01 234303.png",
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "name": "Forum de discussion",
+    "description": "Forum en ligne pour des discussions communautaires.",
+    "image": "/src/assets/images/cyber.png",
+    "link": "#"
+  }
+]
