@@ -3,14 +3,14 @@
     "id": 1,
     "name": "Application de pentesting pour des entreprises",
     "description": "Application python de pentesting pour des entreprises.",
-    "image": "/src/assets/images/cyber.png",
+    "image": "/src/assets/images/cybersec.png",
     "link": "https://github.com/JeanBaptisteMulume/CyberWhatch.git"
   },
   {
     "id": 2,
     "name": "Plateforme de E-learning",
     "description": "plateforme complet avec HTML, CSS, JS et PHP/MySQL. ainsi que le bootstrap",
-    "image": "/src/assets/images/Capture d'écran 2025-10-01 234014.png",
+    "image": "/src/assets/images/soc.png",
     "link": "https://github.com/JeanBaptisteMulume/Skillboost.git"
   },
   {
